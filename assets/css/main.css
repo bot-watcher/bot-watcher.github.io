@@ -11,10 +11,6 @@ video {
 	width: 100%;
 }
 
-.video-bg-container{
-		height: 1080px;
-	}
-
 	#video-bg{
 		position: absolute;
 		color: white;
