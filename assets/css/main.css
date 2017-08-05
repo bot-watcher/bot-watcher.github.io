@@ -6,10 +6,11 @@
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
-	
+
+/* Fix glitchy backgrounds */	
 video {
 	width: 100%;
-	margin-bottom: -9px;
+	margin-bottom: -9px !important;
 }
 
 	#video-bg{
