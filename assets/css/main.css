@@ -10,12 +10,12 @@
 /* Fix glitchy backgrounds */	
 video {
 	width: 100%;
+	background: rgba(0, 0, 0, 0.5)
 	margin-bottom: -9px !important;
 }
 
 	#video-bg{
 		position: absolute;
-		background: rgba(0, 0, 0, 0.5)
 		color: white;
 		width: 100%;
 		padding: 5em 0em;
